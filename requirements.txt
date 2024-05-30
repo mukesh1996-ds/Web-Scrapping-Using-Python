@@ -4,3 +4,5 @@ lxml
 beautifulsoup4
 selenium
 requests
+
+.//li[contains(@class, "productListItem")]
